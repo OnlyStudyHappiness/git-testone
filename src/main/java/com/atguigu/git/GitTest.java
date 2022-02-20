@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Push!!!");
         System.out.println("Pull!!!");
         System.out.println("hahaha success");
+        System.out.println("再来一次");
     }
 }
